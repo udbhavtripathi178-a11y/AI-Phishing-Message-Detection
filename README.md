@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ AI Phishing Message Detection
 
 An AI-powered machine learning application that classifies text messages into three categories: **Ham, Spam, and Smishing**.
@@ -111,3 +112,7 @@ This application is an educational machine learning prototype. Predictions may b
 **Status:** Initial prototype completed
 
 Developed as part of the Samsung Innovation Campus AI learning journey.
+=======
+# AI-Phishing-Message-Detector
+Al-powered Android application for detecting phishing messages using machine learning and NLP.
+>>>>>>> collab/main
